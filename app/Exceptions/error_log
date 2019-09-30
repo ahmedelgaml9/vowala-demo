@@ -1,0 +1,7 @@
+[24-May-2019 18:03:28 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/waffarnaa/public_html/app/Exceptions/Handler.php on line 8
+[06-Jun-2019 13:18:20 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/waffarnaa/public_html/app/Exceptions/Handler.php on line 8
+[13-Jun-2019 01:56:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/waffarnaa/public_html/app/Exceptions/Handler.php on line 8
+[15-Jun-2019 10:54:27 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/waffarnaa/public_html/app/Exceptions/Handler.php on line 8
+[17-Jun-2019 13:49:08 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/waffarnaa/public_html/app/Exceptions/Handler.php on line 8
+[18-Jun-2019 15:14:48 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/waffarnaa/public_html/app/Exceptions/Handler.php on line 8
+[19-Jun-2019 16:45:55 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/waffarnaa/public_html/app/Exceptions/Handler.php on line 8

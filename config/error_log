@@ -1,0 +1,8 @@
+[22-Jun-2019 21:31:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/waffarnaa/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/waffarnaa/public_html/config/broadcasting.php on line 18
+[03-Jul-2019 19:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/waffarnaa/public_html/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/waffarnaa/public_html/config/database.php on line 16

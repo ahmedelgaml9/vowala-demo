@@ -1,0 +1,5 @@
+[23-May-2019 22:08:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/waffarnaa/public_html/app/Http/Kernel.php on line 7
+[25-May-2019 08:42:41 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/waffarnaa/public_html/app/Http/Kernel.php on line 7
+[26-May-2019 11:43:22 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/waffarnaa/public_html/app/Http/Kernel.php on line 7
+[27-May-2019 14:03:00 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/waffarnaa/public_html/app/Http/Kernel.php on line 7
+[28-May-2019 15:39:34 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/waffarnaa/public_html/app/Http/Kernel.php on line 7

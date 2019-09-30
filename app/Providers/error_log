@@ -1,0 +1,17 @@
+[23-May-2019 20:28:35 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[25-May-2019 05:15:53 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/AppServiceProvider.php on line 8
+[26-May-2019 10:44:59 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/EventServiceProvider.php on line 8
+[26-May-2019 12:09:17 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/RouteServiceProvider.php on line 8
+[27-May-2019 07:55:56 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/AppServiceProvider.php on line 8
+[27-May-2019 21:25:21 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/RouteServiceProvider.php on line 8
+[28-May-2019 02:52:59 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/EventServiceProvider.php on line 8
+[28-May-2019 11:02:40 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/AppServiceProvider.php on line 8
+[28-May-2019 23:42:15 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/RouteServiceProvider.php on line 8
+[29-May-2019 12:46:58 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/AppServiceProvider.php on line 8
+[30-May-2019 01:09:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/AuthServiceProvider.php on line 8
+[30-May-2019 02:02:07 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/RouteServiceProvider.php on line 8
+[30-May-2019 19:19:53 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/AppServiceProvider.php on line 8
+[31-May-2019 06:56:43 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/RouteServiceProvider.php on line 8
+[02-Jun-2019 21:18:19 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/RouteServiceProvider.php on line 8
+[12-Jun-2019 04:48:50 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Jun-2019 12:33:52 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/waffarnaa/public_html/app/Providers/BroadcastServiceProvider.php on line 8
